@@ -1,1 +1,1 @@
-I added Chapter1.txt to git and will now add a few more to the second commit.
+I added Chapter1.txt to git and will now add a few more to the second commit. And I think I'm doing pretty good.
